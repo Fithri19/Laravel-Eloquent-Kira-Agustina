@@ -1,21 +1,3 @@
-# 🏢 Sistem Manajemen Pekerja
-
-Sistem Manajemen Pekerja adalah platform berbasis web yang dirancang untuk membantu pengelolaan data karyawan, monitoring jabatan, serta pengorganisasian departemen secara efisien. Proyek ini dibangun dengan fokus pada fungsionalitas CRUD (Create, Read, Update, Delete) yang cepat dan antarmuka yang bersih untuk memudahkan administrator.
-
-## ✨ Fitur Utama
-
-- **Dashboard Statistik:** Ringkasan jumlah pekerja aktif dan pembagian departemen.
-- **Manajemen Karyawan:** Kelola biodata, posisi, dan status kontrak kerja.
-- **Filter Jabatan:** Memudahkan pencarian pekerja berdasarkan divisi tertentu.
-- **Autentikasi Keamanan:** Akses masuk sistem menggunakan sistem login terenkripsi.
-- **Data Ekspor:** Kemampuan untuk mencetak data pekerja ke dalam format laporan.
-
----
-
-## 📸 Dokumentasi Visual
-
-Berikut adalah cuplikan antarmuka dari website Sistem Manajemen Pekerja:
-
 ### 1. Dashboard Utama
 > Deskripsi: Halaman Utama, Sekalian Juga Halaman Untuk Melihat Seluruh Data Pekerja Yang Sudah Terdata, Dan juga Mencari Pekerja Yang Sudah Terdata
 <img width="1916" height="971" alt="Screenshot 2026-04-15 134132" src="https://github.com/user-attachments/assets/a7259d66-1302-4687-a1ad-448c78889fdd" />
